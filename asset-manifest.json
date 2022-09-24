@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/LabelJoyAdminDashboard/static/css/main.7ddf640a.css",
-    "main.js": "/LabelJoyAdminDashboard/static/js/main.14fc33fe.js",
+    "main.js": "/LabelJoyAdminDashboard/static/js/main.bcc5aeed.js",
     "static/js/787.50064b8b.chunk.js": "/LabelJoyAdminDashboard/static/js/787.50064b8b.chunk.js",
     "static/media/label.png": "/LabelJoyAdminDashboard/static/media/label.1c76573749566e64f334.png",
     "index.html": "/LabelJoyAdminDashboard/index.html",
     "main.7ddf640a.css.map": "/LabelJoyAdminDashboard/static/css/main.7ddf640a.css.map",
-    "main.14fc33fe.js.map": "/LabelJoyAdminDashboard/static/js/main.14fc33fe.js.map",
+    "main.bcc5aeed.js.map": "/LabelJoyAdminDashboard/static/js/main.bcc5aeed.js.map",
     "787.50064b8b.chunk.js.map": "/LabelJoyAdminDashboard/static/js/787.50064b8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ddf640a.css",
-    "static/js/main.14fc33fe.js"
+    "static/js/main.bcc5aeed.js"
   ]
 }
